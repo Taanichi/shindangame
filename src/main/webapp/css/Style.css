@@ -1,0 +1,78 @@
+@charset "UTF-8";
+body{
+	background-color:#f0e68c;
+}
+h1{
+	color: #f8fbd9;
+	text-shadow:3px 3px 3px #e6993c;
+	
+}
+header{
+	margin:10px;
+	background-color:#edf5a3;
+	padding:5px;
+	text-align:center;
+	font-size:20px;
+	border: dashed 3px #f8fbd9;
+	box-shadow:0px 0px 0px 10px #edf5a3;
+	border-radius: 10px;
+}
+
+.sumi{
+	margin-top:20px;
+	padding:10px 10px 10px 10px;
+	border-left:solid 10px #edf5a3;
+}
+
+.box{
+	margin:50px;
+	background-color:#edf5a3;
+	padding:15px;
+	font-size:20px;
+	border: dashed 3px #f8fbd9;
+	box-shadow:0px 0px 0px 10px #edf5a3;
+	border-radius: 10px;
+}
+
+h3{
+	padding:10px 0px;
+}
+
+#baka{
+	margin:10px;
+	background-color:#edf5a3;
+	padding:15px;
+	font-size:20px;
+	border: dashed 3px #f8fbd9;
+	box-shadow:0px 0px 0px 10px #edf5a3;
+	border-radius: 10px;
+	
+}
+
+#error{
+	color: red;
+	font-weight: bold;
+}
+
+#buttons{
+	margin-top: 30px;
+	color:red;
+	
+}
+
+#result{
+	font-size: 40px;
+	font-weight: boid;
+	color: #ff8000;
+}
+
+.back{
+	margin:10px;
+	background-color:#edf5a3;
+	padding:15px;
+	font-size:20px;
+	border: dashed 3px #f8fbd9;
+	box-shadow:0px 0px 0px 10px #edf5a3;
+	border-radius: 10px;
+	
+}
